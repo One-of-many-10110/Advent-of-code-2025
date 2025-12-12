@@ -25,4 +25,3 @@ print(f"The final route count is {routecount}.")
 # has a parameter that is the id of the server and will look through its outputs to see if there is an out
 # if there is it will add one to the number of ways to get to the out server
 # servers put in dictionaries, with their indexes as the server name and the outputs as the items.
-# this line is added because i think it got the day wrong again in the change notes. whoopsie
